@@ -1,18 +1,25 @@
-## 👋 About Me
+👋 **Hi, I'm Trusha!**
 
-🛠️ **DevOps/SRE Engineer | Full Stack Developer**  
-🌐 **Designing resilient infrastructure and intuitive web applications with clarity and care**  
-🎓 **Engineer with a passion for fairness, transparency, and emotionally intelligent tech**  
-🚀 **Specialized in AWS, Terraform, Python, and React**  
-📦 **From backend automation to frontend empathy—every layer matters**  
+🛠️ **DevOps/SRE Engineer**  
+🚀 AWS | Terraform | Python
 
-💬 **Ask me about:**   
-- Designing cloud-native infrastructure that’s scalable, secure, and human-friendly  
-- Writing Terraform and CI/CD pipelines that are modular, reusable, and well-documented  
-- Automating workflows with Python, Bash, and AWS Lambda 
-- Monitoring systems with ELK, CloudWatch, and Grafana—without drowning in dashboards  
-- Making technical documentation feel like a conversation, not a chore
-- Building full stack apps that balance backend power with frontend empathy 
+🌐 Designing resilient, cloud-native infrastructure  
+🎓 Champion of fairness, transparency, & empathetic tech
+
+---
+
+**What I do best:**
+- Build scalable, secure cloud systems
+- Automate workflows (Python, Bash, Lambda)
+- Create modular Terraform & CI/CD pipelines
+- Monitor smartly (ELK, CloudWatch, Grafana)
+- Write clear, conversational documentation
+
+---
+
+✨ *Web app development is my passion—DevOps/SRE/Cloud is my career focus!*
+
+💬 *Let’s connect about cloud engineering, automation, and making tech more human!*
 
 ---
 
