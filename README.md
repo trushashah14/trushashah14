@@ -14,9 +14,6 @@
 - Making technical documentation feel like a conversation, not a chore
 - Building full stack apps that balance backend power with frontend empathy 
 
-📌 **Currently working on:**  
-- Automating job tracking with Gmail sync and ghosting logic  
-- Designing reusable Terraform modules for multi-client deployments  
 ---
 
 ## 🧰 Tech Stack
