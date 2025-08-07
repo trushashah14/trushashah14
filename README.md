@@ -17,9 +17,7 @@
 
 ---
 
-✨ *Web app development is my passion—DevOps/SRE/Cloud is my career focus!*
-
-💬 *Let’s connect about cloud engineering, automation, and making tech more human!*
+✨ *Web development for fun—DevOps/SRE/Cloud is where I thrive.*
 
 ---
 
