@@ -53,23 +53,9 @@
 
 ---
 
-## 📚 Featured Projects
-
-- **Aws Automation Tool**  
-  A CLI-based AWS EC2 and S3 automation tool using Python, Boto3, and Docker. This project allows you to manage EC2 instances and S3 buckets/files directly from your terminal using Makefile commands or by running the tool inside a Docker container.
-
-- **CloudSentinel: Automated AWS Infrastructure Compliance**  
-  Lightweight AWS-native framework that ensures cloud infrastructure remains in strict compliance with organizational policies. It actively monitors EBS volume provisioning and automatically remediates misconfigured gp2 volumes by converting them to gp3 via Lambda-triggered workflows.
-
-- **Hook2Issue: Flask-Based JIRA Automation via GitHub Events**  
-  Lightweight Flask application hosted on an EC2 instance to listen for webhook events and generate JIRA issues dynamically
-
----
-
 ## ✨ Philosophy
 
-> “Infrastructure should be invisible when it works, and intuitive when it breaks.”  
-> “Documentation isn’t just for clarity—it’s for kindness.”  
+ “Infrastructure should be invisible when it works, and intuitive when it breaks.” 
 
 ---
 
