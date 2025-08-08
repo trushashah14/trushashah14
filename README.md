@@ -1,6 +1,6 @@
-👋 **Hi, I'm Trusha!**
+## 👋 Hi, I'm Trusha!
 
-🛠️ **DevOps/SRE Engineer**  
+### 🛠️ DevOps/SRE Engineer
 🚀 AWS | Terraform | Python
 
 🌐 Designing resilient, cloud-native infrastructure  
@@ -8,7 +8,7 @@
 
 ---
 
-**What I do best:**
+## What I do best:
 - Build scalable, secure cloud systems
 - Automate workflows (Python, Bash, Lambda)
 - Create modular Terraform & CI/CD pipelines
